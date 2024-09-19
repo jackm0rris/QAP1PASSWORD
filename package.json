@@ -1,0 +1,14 @@
+{
+  "name": "qap-1",
+  "version": "1.0.0",
+  "description": "Password generator for QAP 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "generate-password": "./index.js"
+  },
+  "author": "Jack Morris",
+  "license": "MIT"
+}
